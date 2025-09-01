@@ -1,2 +1,2 @@
-# Student-Portal
+# Capstone
 Group &amp;
